@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drnapalai
 - 👀 I’m interested in lifestyle and longevity medicine
-- 🌱 I’m currently learning dasta science
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on digital health project
 - 📫 napalaimd@gmail.com
 - 😄 Pronouns: She/Her
