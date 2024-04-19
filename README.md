@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drnapalai
+- 👋 Hi, I’m @drphone
 - 👀 I’m interested in lifestyle and longevity medicine
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on digital health project
